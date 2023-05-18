@@ -1,5 +1,4 @@
 // images
-import Logo from '../src/assets/img/header/logo.svg';
 import ResistanceImg from '../src/assets/img/workouts/resistance.jpg';
 import BoxingImg from '../src/assets/img/workouts/boxing.jpg';
 import BodyPumpImg from '../src/assets/img/workouts/body-pump.png';
@@ -20,7 +19,6 @@ import CommunityIcn from '../src/assets/img/community/icons/community-icn.svg';
 import QuestionMarkIcn from '../src/assets/img/faq/icons/question-mark.svg';
 
 export const header = {
-  logo: Logo,
   btnLoginText: 'Log in',
   btnSignupText: 'Sign Up',
 };
@@ -205,6 +203,6 @@ export const join = {
 };
 
 export const footer = {
-  logo: Logo,
-  copyrightText: 'All rights reserved. Gymme 2022.',
+
+  copyrightText: 'All rights reserved. Gym 2022.',
 };
